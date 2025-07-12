@@ -1,80 +1,74 @@
-# Lonn Mejiano’s Business Intelligence Portfolio
+# Lonn Mejiano
 
-Welcome to my Business Intelligence portfolio! I’m **Lonn M. Mejiano**, a Business Intelligence Analyst with 10+ years of aviation‐operations leadership and hands-on data analytics. Here you’ll find highlights of my key BI projects, the tools and techniques I use, and how to connect with me.
-
----
-
-## 📋 Table of Contents
-1. [About Me](#about-me)  
-2. [Core Skills & Technologies](#core-skills--technologies)  
-3. [Featured Projects](#featured-projects)  
-    - [Customer Retention Cohort Analysis](#customer-retention-cohort-analysis)  
-    - [NYC Airbnb Investment Model](#nyc-airbnb-investment-model)  
-    - [SuperStore Profit & Return Analysis](#superstore-profit--return-analysis)  
-    - [SuperStore Returns Dashboard](#superstore-returns-dashboard)  
-4. [Contact & Connect](#contact--connect)  
+![Visitor Count](https://komarev.com/ghpvc/?username=lonnmejiano\&color=green)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lonnmejiano\&show_icons=true\&theme=default)
 
 ---
 
-## About Me
-I am a **Business Intelligence Analyst** based in Kennewick, WA, with a decade of experience driving operational excellence through data. I specialize in:
-- Architecting **ETL pipelines** and **data warehouses**  
-- Engineering interactive **Tableau** and **Power BI** dashboards  
-- Applying statistical methods (cohorts, A/B testing, regression) to uncover actionable insights  
-- Collaborating cross-functionally to turn complex datasets into strategic business decisions  
+## 👋 About Me
+
+I’m a **Business Intelligence Analyst** with 10+ years of experience in aviation operations and data analytics. I excel at translating complex datasets into clear, actionable insights and interactive dashboards. My focus is on empowering stakeholders with data-driven decision-making using **Power BI** and **Tableau**.
 
 ---
 
-## Core Skills & Technologies
-- **BI & Reporting:** SQL (Joins, Window Functions), Power BI, Tableau, Executive Reporting, KPI Tracking  
-- **Data Engineering:** ETL Design, Data Warehousing, Data Modeling, OLAP  
-- **Programming & Analysis:** Python (Pandas, NumPy), Excel (PivotTables, VBA), Cohort Analysis, A/B Testing  
-- **Operations & Compliance:** Process Optimization, SOP Development, FAA/TSA/OSHA Reporting, Data Governance  
+## 🛠️ Skills & Technologies
+
+* **BI & Visualization:** Power BI ![Power BI](https://img.shields.io/badge/Power%20BI-C43491?style=flat-square\&logo=microsoft-power-bi\&logoColor=white), Tableau ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square\&logo=tableau\&logoColor=white)
+* **Data & Databases:** SQL (MySQL, PostgreSQL), Excel (PivotTables, Power Query)
+* **Programming:** Python (Pandas, Matplotlib), JavaScript
+* **Tools & Platforms:** Git, GitHub, Power Query, DAX, R
+* **Process & Analysis:** Data Cleaning, KPI Tracking, ETL, Cohort Analysis
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### Customer Retention Cohort Analysis
-🔗 [View Code & Dashboard](https://github.com/lonnmejiano/lonnmejiano-data-bia/tree/main/Customer-Retention-Cohorts)  
-- **Purpose:** Identify high churn-risk customers and improve retention.  
-- **Tech Stack:** SQL stored procedures, Google Sheets, Power BI  
-- **Highlights:**  
-  - Engineered data transformation for centralized cohort modeling  
-  - Flagged 15% of customers as high risk; implemented targeted email/discount campaign  
-  - Developed interactive Power BI dashboard—achieved an 8% retention lift in one quarter  
-
-### NYC Airbnb Investment Model
-🔗 [View Code & Report](https://github.com/lonnmejiano/lonnmejiano-data-bia/tree/main/NYC-Airbnb-Investment-Model)  
-- **Purpose:** Analyze ROI across New York City neighborhoods.  
-- **Tech Stack:** Python, Excel, Tableau  
-- **Highlights:**  
-  - Cleaned and standardized listing data (price, costs, occupancy)  
-  - Mapped top 3 neighborhoods delivering 25–30% ROI—10–15 points above market average  
-  - Built automated Tableau dashboard for ongoing investment tracking  
-
-### SuperStore Profit & Return Analysis
-🔗 [View Code & Dashboards](https://github.com/lonnmejiano/lonnmejiano-data-bia/tree/main/SuperStore-Profit-Return)  
-- **Purpose:** Uncover regional return-rate hotspots and reduce shipping costs.  
-- **Tech Stack:** SQL, Tableau  
-- **Highlights:**  
-  - Created Tableau heatmaps to identify 3 regions with return rates 25% above average  
-  - Instituted weekly KPI dashboards—drove a 15% reduction in return-shipping costs in two months  
-
-### SuperStore Returns Dashboard
-🔗 [View Code & Dashboard](https://github.com/lonnmejiano/lonnmejiano-data-bia/tree/main/SuperStore-Returns-Dashboard)  
-- **Purpose:** Compare return rates versus sales trends.  
-- **Tech Stack:** SQL, Tableau  
-- **Highlights:**  
-  - Designed dual-axis dashboards highlighting sales vs. return-rate spikes  
-  - Exposed demand-forecast mismatches causing 10% inventory overstock  
-  - Recommended weekly root-cause reviews and product-level analyses  
+| Project                                | Description                                                                                                                                       | Tech Stack           | Link                                                                      |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ------------------------------------------------------------------------- |
+| **SuperStore Profit & Loss Analysis**  | Built a dual-axis Tableau dashboard to compare return rates vs sales profitability, enabling executives to make strategic supply chain decisions. | Tableau, Excel       | [Repo](https://github.com/lonnmejiano/superstore-profit-loss-analysis)    |
+| **Customer Retention Cohort Analysis** | Developed SQL queries and Power BI reports to identify churn risks and proposed a re-engagement strategy that boosted retention by 8%.            | SQL, Power BI, Excel | [Repo](https://github.com/lonnmejiano/customer-retention-cohort-analysis) |
+| **NYC Airbnb Investment Model**        | Designed an ROI model in Excel and Power BI that flagged top 3 neighborhoods delivering 25–30% ROI, guiding investment allocation.                | Excel, Power BI, SQL | [Repo](https://github.com/lonnmejiano/nyc-airbnb-investment-model)        |
+| **SuperStore Returns Dashboard**       | Created an interactive Power BI dashboard showcasing return metrics by region and product category, informing Q4 logistics planning.              | Power BI, DAX        | [Repo](https://github.com/lonnmejiano/superstore-returns-dashboard)       |
 
 ---
 
-## Contact & Connect
-- 📧 **Email:** lonnmejiano@gmail.com  
-- 🔗 **LinkedIn:** www.linkedin.com/in/lonnmejiano  
-- 🐙 **GitHub:** github.com/lonnmejiano/lonnmejiano-data-bia  
+## 🎓 Education
 
-Feel free to explore my repositories, reach out with questions, or connect for new BI opportunities!  
+**Academy of Art University** — BFA in Photography & Design
+*2012 – 2016*
+
+---
+
+## 💼 Experience
+
+### Delta Air Lines — Ramp Supervisor
+
+*2018 – Present*
+
+* Streamlined ramp operations and implemented data dashboards, reducing turnaround times by 15%.
+* Led training for 30+ personnel on safety protocols and data-driven best practices.
+
+### American Airlines — Lead Crew Chief
+
+*2017 – 2018*
+
+* Coordinated logistics for 50+ flights daily, using Excel macros to optimize resource allocation.
+* Developed performance reports to monitor on-time departures and cargo handling KPIs.
+
+### G2 Secure Staff — Ramp Agent
+
+*2016 – 2017*
+
+* Managed cargo operations and inventory tracking using advanced Excel functions.
+
+---
+
+## 📫 Get in Touch
+
+* ✉️ **Email:** [lonnmejiano@gmail.com](mailto:lonnmejiano@gmail.com)
+* 🔗 **LinkedIn:** [linkedin.com/in/lonnmejiano](https://linkedin.com/in/lonnmejiano)
+* 🌐 **Portfolio:** [lonnmejiano.github.io](https://lonnmejiano.github.io)
+
+---
+
+*Let’s connect and turn data into insights!*
