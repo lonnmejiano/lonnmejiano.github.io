@@ -1,7 +1,5 @@
 # Lonn Mejiano
 
-![Visitor Count](https://komarev.com/ghpvc/?username=lonnmejiano\&color=green)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lonnmejiano\&show_icons=true\&theme=default)
 
 ---
 
